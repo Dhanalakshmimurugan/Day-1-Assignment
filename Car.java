@@ -26,6 +26,8 @@ public class Car {
 		 object.applyBreak();
 		 object.switchOnAc();
 		 object.applyAcclerate();
+		 object.applyGear();
+		 object.changeGear();
 		 
 				 
 	 }
