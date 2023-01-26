@@ -13,6 +13,12 @@ public class Car {
 	 public void applyAcclerate() {
 		System.out.println("THE USER CAN APPLY THE ACCLERATOR");
 	}
+	 public void applyGear() {
+		 system.out.println("THE USER CAN APPLY THE GEAR");
+	 }
+	 public void changeGear() {
+		 system.out.println("THE USER CAN CHANGE THE GEAR");
+	 }
 	 public static void main(String[] args) {
 		 
 		 Car object = new Car();
